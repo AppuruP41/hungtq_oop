@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
-public class SolveMFDE {
-    
-    public class SolveFDE {
-    
+public class SolveMFDE {   
         public static void main(String[] args) {
             
             double a11, a12, a21, a22, b1, b2, x, y;
@@ -44,4 +41,3 @@ public class SolveMFDE {
             }           
         }
     }
-}
